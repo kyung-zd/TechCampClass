@@ -1,0 +1,55 @@
+p { color: black; font-size: 13px; font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif; padding-left: 10px }
+body {background: #C0C0C0; }
+#header {float: right; width: 80%; height: 250px;}
+#header2 {float: left; width: 19%; height: 250px;}
+#leftcol {float: left; width: 19%; height: 400px;}
+#leftcoljoin {float: left; width: 19%; height: 600px;}
+#leftcolspeak {float: left; width: 19%; height: 800px;}
+#leftcolnews {float: left; width: 19%; height: 1100px;}
+#content {float: right: width: 19%; height: 650 px; margin-left: 30px; margin-right: 55px; }
+#contentjoin {float: right: width: 19%; height: 800 px; margin-left: 30px; margin-right: 55px; }
+#contentspeak {float: right: width: 19%; height: 800 px; margin-left: 30px; margin-right: 55px; }
+#contentnews {float: right: width: 19%; height: 1100 px; margin-left: 30px; margin-right: 55px; }
+#footer {clear: both; width: 100%;}
+
+span.head2burgundy {
+	font-family : Helvetica, Arial, Sans-Serif;
+	font-size : 15px; 
+	font-weight : bold; 
+} 
+span.smalltext {
+	font-family : Helvetica, Arial, Sans-Serif;
+	font-size : 11px; 
+} 
+
+span.smalltextburg {
+	font-family : Helvetica, Arial, Sans-Serif;
+	font-size : 11px; 
+	color:	#80000;
+} 
+
+dt {
+	font-family: Helvetica, Arial, Sans-Serif;
+	font-size: 13px;
+	padding-left : 10px; 
+}
+
+li {
+	font-family: Helvetica, Arial, Sans-Serif;
+	font-size: 20px; 
+	margin-left : 200px;
+	text-indent : 5px;
+	
+	 
+}
+
+A:visited {
+  color : #800000;
+}
+
+A:link {
+  color : #800000;
+}
+
+b {color: #800000;}
+strong {color: #800000;}
